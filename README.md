@@ -5,7 +5,7 @@ based on human parsing. However, slightly-wrong segmentation results would lead 
 large artifacts.
 This work does not use human parsing.
 
-## Our Environment
+## Environment
 anaconda3
 
 pytorch 1.1.0
